@@ -34,7 +34,6 @@ downloads/chrome_profile/
 build/
 dist/
 release/
-*.exe
 *.pak
 *.dll
 *.xlsx
